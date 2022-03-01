@@ -63,6 +63,29 @@ export default function Sidebar() {
                     </li>
 
                 </ul>
+                <button className='sidebarButton'>Show More</button>
+                <hr className='sidebarHr' />
+                <ul className='sidebarFriendList'>
+                    <li className='sidebarFriend'>
+                        <img className='sidebarFriendImage' src="assets/koreana_files/3.jpeg" alt='' />
+                        <span className='sidebarFriendName'>Ajo</span>
+                    </li>
+
+                    <li className='sidebarFriend'>
+                        <img className='sidebarFriendImage' src="assets/koreana_files/3.jpeg" alt='' />
+                        <span className='sidebarFriendName'>Ajo</span>
+                    </li>
+
+                    <li className='sidebarFriend'>
+                        <img className='sidebarFriendImage' src="assets/koreana_files/3.jpeg" alt='' />
+                        <span className='sidebarFriendName'>Ajo</span>
+                    </li>
+
+                    <li className='sidebarFriend'>
+                        <img className='sidebarFriendImage' src="assets/koreana_files/3.jpeg" alt='' />
+                        <span className='sidebarFriendName'>Ajo</span>
+                    </li>
+                </ul>
             </div>
         </div>
     )
