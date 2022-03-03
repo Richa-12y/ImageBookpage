@@ -1,4 +1,7 @@
 .rightbar{
     flex:3.5;
-    background-color: aqua;
+    background-color: lightskyblue;
+}
+.rightbarWrapper{
+   padding:20px 20px 0 0;
 }
