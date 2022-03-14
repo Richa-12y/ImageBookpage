@@ -46,15 +46,7 @@ export const Users = [
     },
 ];
 export const Posts = [
-    {
-        id: 1,
-        desc: "Love For All, Hatred For None.",
-        photo: "asserts / koreana_files / wp7373746.jpg",
-        date: "5 mins ago",
-        userId: 1,
-        like: 32,
-        comment: 9,
-    },
+
     {
         id: 2,
         photo: "assets/post/2.jpeg",
@@ -206,7 +198,7 @@ export const Posts = [
     {
         id: 19,
         desc: "Love the way you Lie",
-        photo: "asserts / koreana_files / 516664.jpg",
+        photo: "asserts / post / 1.jpeg",
         date: "4 days ago",
         userId: 19,
         like: 82,
