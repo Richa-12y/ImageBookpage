@@ -44,7 +44,7 @@ export default function Rightbar({ profile }) {
         <div className="rightbarFollowings">
           <div className="rightbarFollowing">
             <img
-              src="assets/koreana_files/47666.png"
+              src="assets/post/1.jpeg"
               alt=""
               className="rightbarFollowingImg"
             />
